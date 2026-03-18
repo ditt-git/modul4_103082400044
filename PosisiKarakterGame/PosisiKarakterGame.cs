@@ -67,6 +67,14 @@ namespace modul4_103082400044
                             Console.WriteLine("Input S : Posisi istirahat");
                         }
                         break;
+
+                    case Posisi.Tengkurap:
+                        if (input == 'W')
+                        {
+                            state = Posisi.Jongkok;
+                            Console.WriteLine("Input W : Posisi jongkok");
+                        }
+                        break;
                 }
             }
         }

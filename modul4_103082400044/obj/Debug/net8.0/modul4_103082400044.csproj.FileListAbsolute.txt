@@ -1,0 +1,14 @@
+\\Mac\Home\Downloads\KodeBuah\modul4_103082400044\bin\Debug\net8.0\modul4_103082400044.exe
+\\Mac\Home\Downloads\KodeBuah\modul4_103082400044\bin\Debug\net8.0\modul4_103082400044.deps.json
+\\Mac\Home\Downloads\KodeBuah\modul4_103082400044\bin\Debug\net8.0\modul4_103082400044.runtimeconfig.json
+\\Mac\Home\Downloads\KodeBuah\modul4_103082400044\bin\Debug\net8.0\modul4_103082400044.dll
+\\Mac\Home\Downloads\KodeBuah\modul4_103082400044\bin\Debug\net8.0\modul4_103082400044.pdb
+\\Mac\Home\Downloads\KodeBuah\modul4_103082400044\obj\Debug\net8.0\modul4_103082400044.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\KodeBuah\modul4_103082400044\obj\Debug\net8.0\modul4_103082400044.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\KodeBuah\modul4_103082400044\obj\Debug\net8.0\modul4_103082400044.AssemblyInfo.cs
+\\Mac\Home\Downloads\KodeBuah\modul4_103082400044\obj\Debug\net8.0\modul4_103082400044.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\KodeBuah\modul4_103082400044\obj\Debug\net8.0\modul4_103082400044.dll
+\\Mac\Home\Downloads\KodeBuah\modul4_103082400044\obj\Debug\net8.0\refint\modul4_103082400044.dll
+\\Mac\Home\Downloads\KodeBuah\modul4_103082400044\obj\Debug\net8.0\modul4_103082400044.pdb
+\\Mac\Home\Downloads\KodeBuah\modul4_103082400044\obj\Debug\net8.0\modul4_103082400044.genruntimeconfig.cache
+\\Mac\Home\Downloads\KodeBuah\modul4_103082400044\obj\Debug\net8.0\ref\modul4_103082400044.dll

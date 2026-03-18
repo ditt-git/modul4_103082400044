@@ -1,0 +1,15 @@
+\\Mac\Home\Downloads\KodeBuah\PosisiKarakterGame\bin\Debug\net8.0\PosisiKarakterGame.exe
+\\Mac\Home\Downloads\KodeBuah\PosisiKarakterGame\bin\Debug\net8.0\PosisiKarakterGame.deps.json
+\\Mac\Home\Downloads\KodeBuah\PosisiKarakterGame\bin\Debug\net8.0\PosisiKarakterGame.runtimeconfig.json
+\\Mac\Home\Downloads\KodeBuah\PosisiKarakterGame\bin\Debug\net8.0\PosisiKarakterGame.dll
+\\Mac\Home\Downloads\KodeBuah\PosisiKarakterGame\bin\Debug\net8.0\PosisiKarakterGame.pdb
+\\Mac\Home\Downloads\KodeBuah\PosisiKarakterGame\obj\Debug\net8.0\PosisiKarakterGame.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\KodeBuah\PosisiKarakterGame\obj\Debug\net8.0\PosisiKarakterGame.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\KodeBuah\PosisiKarakterGame\obj\Debug\net8.0\PosisiKarakterGame.AssemblyInfo.cs
+\\Mac\Home\Downloads\KodeBuah\PosisiKarakterGame\obj\Debug\net8.0\PosisiKarakterGame.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\KodeBuah\PosisiKarakterGame\obj\Debug\net8.0\PosisiKarakterGame.sourcelink.json
+\\Mac\Home\Downloads\KodeBuah\PosisiKarakterGame\obj\Debug\net8.0\PosisiKarakterGame.dll
+\\Mac\Home\Downloads\KodeBuah\PosisiKarakterGame\obj\Debug\net8.0\refint\PosisiKarakterGame.dll
+\\Mac\Home\Downloads\KodeBuah\PosisiKarakterGame\obj\Debug\net8.0\PosisiKarakterGame.pdb
+\\Mac\Home\Downloads\KodeBuah\PosisiKarakterGame\obj\Debug\net8.0\PosisiKarakterGame.genruntimeconfig.cache
+\\Mac\Home\Downloads\KodeBuah\PosisiKarakterGame\obj\Debug\net8.0\ref\PosisiKarakterGame.dll

@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "\\\\Mac\\Home\\Downloads\\KodeBuah\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EC5A15FF-1C81-471F-A3F5-11818DDF7385}|PosisiKarakterGame\\PosisiKarakterGame.csproj|\\\\mac\\home\\downloads\\kodebuah\\posisikaraktergame\\posisikaraktergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DB69AA9-025A-4FE0-B7FA-6EBB74231FD8}|modul4_103082400044\\modul4_103082400044.csproj|\\\\mac\\home\\downloads\\kodebuah\\modul4_103082400044\\kodebuah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,12 +21,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PosisiKarakterGame.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\KodeBuah\\PosisiKarakterGame\\PosisiKarakterGame.cs",
+              "RelativeDocumentMoniker": "PosisiKarakterGame\\PosisiKarakterGame.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\KodeBuah\\PosisiKarakterGame\\PosisiKarakterGame.cs",
+              "RelativeToolTip": "PosisiKarakterGame\\PosisiKarakterGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T02:09:28.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "KodeBuah.cs",
               "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\KodeBuah\\modul4_103082400044\\KodeBuah.cs",
               "RelativeDocumentMoniker": "modul4_103082400044\\KodeBuah.cs",
-              "ToolTip": "\\\\Mac\\Home\\Downloads\\KodeBuah\\modul4_103082400044\\KodeBuah.cs*",
-              "RelativeToolTip": "modul4_103082400044\\KodeBuah.cs*",
-              "ViewState": "AgIAACMAAACAzszMzAwrwCMAAAARAAAAAAAAAA==",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\KodeBuah\\modul4_103082400044\\KodeBuah.cs",
+              "RelativeToolTip": "modul4_103082400044\\KodeBuah.cs",
+              "ViewState": "AgIAAB4AAADAzszMzEwvwCEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T01:48:59.949Z",
               "EditorCaption": ""
